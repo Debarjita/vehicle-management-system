@@ -4,6 +4,7 @@ Welcome to the More Torque API documentation. This system is designed to manage 
 
 This API provides a set of endpoints to manage vehicles and organizations, handle policies, and ensure data consistency across parent-child relationships between organizations.
 ## Table of Contents
+- Documentation
 - Technologies Used
 - project structure
 - API Endpoints
@@ -55,6 +56,7 @@ MTQ/
 ├── server.js               (Starts the server on the specified port.)
 ├── package.json
 ├── package-lock.json
+├──DocumentationDetails.pdf
 
 ```
 
