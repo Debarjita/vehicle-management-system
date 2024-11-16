@@ -211,5 +211,15 @@ bash
 npm app.js
 ```
 The API should be running at http://localhost:3000.
+## License
+This project is licensed under the MIT License. See the `LICENSE file` for details.
+
+**Feel free to adapt the details as necessary! Let me know if you want further customization.**
+
+
+
+
+
+
 
 
