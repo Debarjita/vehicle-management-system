@@ -20,6 +20,9 @@ This API provides a set of endpoints to manage vehicles and organizations, handl
 - Tests
 - License
 
+## Documentation
+- Full description with functionalities and features , bonus areas and diagramatic representation of inheritance and overriding concepts provided in the pdf format
+- `https://github.com/Debarjita/vehicle-management-system/blob/main/DocumentationDetails.pdf`
 ## Technologies Used
 - Node.js and Express.js for backend development
 - MongoDB for data storage
